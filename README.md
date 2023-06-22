@@ -39,3 +39,7 @@ python main.py -d cuda
 1. 首先运行`test.py`，生成在测试集上的分割图像，其保存位置在`runs/`目录下
 
 2. 运行`calc.py`，计算TPR，FPR等参数，并且绘制ROC曲线，ROC曲线图像保存在根目录下
+
+作者：宸哥
+
+github链接：https://github.com/beaut1fulb0y/Vessel-Seg.git
